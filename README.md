@@ -1,4 +1,4 @@
-### Olá, eu sou o Michael Patrick 😁🦉
+### Hi, My name is Michael Patrick 😁🦉
 - 🤓 I’m currently learning Computer Science
 - 🤔 I’m looking for help with everything 
 - 😄 Pronouns: You may call me by anything you want I will answer
