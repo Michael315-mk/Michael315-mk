@@ -14,3 +14,6 @@
 ## Midia links
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-borba-50815b128/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/michaelpatrickborba/)
+
+![Snake animation](https://github.com/Owlbertoh/Owlbertoh/blob/output/github-contribution-grid-snake.svg)
+ 
