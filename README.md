@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Owlbertoh&layout=compact&hide_border=true&title_color=B0C4DE&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
-[![Owlbertoh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Owlbertoh&bg_color=080707&color=8c8c8c&line=b0b0b0&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Owlbertoh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Owlbertoh&bg_color=0d1117&color=8c8c8c&line=b0b0b0&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center"> 
 <a href="https://www.instagram.com/michaelpatrickborba/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
