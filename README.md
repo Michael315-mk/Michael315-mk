@@ -41,10 +41,6 @@ I'm a Computer Science student from Brazil 🇧🇷
 <br />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/michael315-mk/" style="text-decoration: none;">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-    <a href="mailto:your.email@example.com" style="text-decoration: none;">
-    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/michael-borba-50815b128/" style="text-decoration: none;"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  &nbsp;&nbsp;&nbsp; <a href="mailto:michaelpfsb@example.com" style="text-decoration: none;"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
