@@ -2,20 +2,24 @@
 
 ### 👋 About Me
 <p style="color: #F8F8F2;">
-I'm a Computer Science student focused on building a strong foundation in software development. My primary interest lies in <strong>C</strong> for systems programming, and I'm currently expanding my skills in <strong>Python</strong> for algorithm development and data structures.
+I'm a Computer Science student focused on building a strong foundation in software development. My primary interest lies in <strong>C</strong> for systems programming, and I'm currently expanding my skills in <strong>Python</strong> for Data Science.
 <br><br>
 I am actively <strong>seeking an internship or junior developer role</strong> to apply my skills and contribute to real-world projects.
 </p>
 
-### 📬 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/michael-borba-50815b128/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:michaelpatrickborba@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
+  
+### 📊 My GitHub Dashboard
+
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=Michael315-mk&show_icons=true&count_private=true&theme=dracula" alt="Michael Patrick's GitHub Stats" />
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael315-mk&layout=compact&theme=dracula" alt="Michael Patrick's Top Languages"/>
+
+<br>
+
+<img src="dist/snake-dracula-chromatic.svg" alt="Michael's GitHub Contribution Snake" />
+
+
+</div>
+
 
 ### 💻 My Toolkit
 <p style="color: #F8F8F2;">
@@ -33,16 +37,14 @@ I am actively <strong>seeking an internship or junior developer role</strong> to
 <div align="center">
 
 <br>
-  
-### 📊 My GitHub Dashboard
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=Michael315-mk&show_icons=true&count_private=true&theme=dracula" alt="Michael Patrick's GitHub Stats" />
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael315-mk&layout=compact&theme=dracula" alt="Michael Patrick's Top Languages"/>
+### 📬 Connect With Me
+<p>
+  <a href="https://www.linkedin.com/in/michael-borba-50815b128/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:michaelpatrickborba@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 
-<br>
-
-<img src="dist/snake-dracula-chromatic.svg" alt="Michael's GitHub Contribution Snake" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Michael315-mk&bg_color=282A36&color=BD93F9&line=50FA7B&point=FF79C6&area=true&hide_border=true" alt="Michael's GitHub Activity Graph" />
-
-</div>
