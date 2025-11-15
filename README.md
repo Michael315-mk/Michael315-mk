@@ -1,47 +1,43 @@
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Michael;Computer+Science+Student;Focusing+on+Artificial+Intelligence+%26+Data;...and+Operating+Systems" alt="Typing Animation" />
+</p>
 
-    <img src="https://github.com/Michael315-mk.png" width="200" height="200" alt="Foto de perfil" />
-  <h1>Michael Patrick</h1>
-  
-    <h2>👋 Sobre Mim</h2>
-  <p>
-    Estudante de <strong>Ciência da Computação no CEFET-RJ</strong>, apaixonado por resolver problemas complexos. <br />
-    Meu foco principal está nas áreas de <strong>Inteligência Artificial</strong>, <strong>Ciência de Dados</strong> e <strong>Sistemas Operacionais</strong>. <br />
-    Atualmente, estou aprofundando meus conhecimentos em <strong>Python</strong> para projetos de IA e usando <strong>C</strong> para estudos de baixo nível. <br />
-    <strong>Estou ativamente buscando oportunidades de estágio</strong> onde posso aplicar minhas habilidades e aprender com o mercado.
-  </p>
+<br />
 
-    <h2>📊 Minhas Estatísticas</h2>
-  <p>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Michael315-mk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael315-mk&layout=compact&langs_count=7&theme=dracula"/>
-  </p>
+I'm a Computer Science student from Brazil 🇧🇷
 
+**About Me**
 
-    <h2>🛠️ Ferramentas e Tecnologias</h2>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  </p>
+- 🎓 Studying **Computer Science** at [CEFET-RJ](http://www.cefet-rj.br/) (Federal Center for Technological Education)
+- 💡 Focusing on **Artificial Intelligence**, **Data Science**, and **Operating Systems**
+- ❤️ I love solving problems with **Python** (AI/Data) and **C** (Low-Level Systems)
+- 🚀 **Actively seeking internship opportunities** and new challenges.
 
-    <h2>📚 Formação Acadêmica</h2>
-  <p>
-    🎓 <strong>Ciência da Computação</strong> | CEFET-RJ <br />
-    ⏳ 3º período <br />
-    🕒 Faltam aproximadamente 2–3 anos para graduação.
-  </p>
+<br>
 
-    <h2>📬 Entre em Contato</h2>
-  <p>
-    <a href="https://www.linkedin.com/in/michael315-mk/">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-        <a href="mailto:seu.email@exemplo.com">
-      <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-</div>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Michael315-mk&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Michael's GitHub Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael315-mk&layout=compact&theme=dracula&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+## 📚 Academic Background
+- 🎓 **B.S. in Computer Science** | CEFET-RJ  
+- ⏳ 4rd Semester 
+
+<br />
+<br />
+
+<p align="right">
+  <a href="https://www.linkedin.com/in/michael315-mk/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+    <a href="mailto:your.email@example.com">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
