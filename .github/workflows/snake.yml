@@ -5,7 +5,6 @@ on:
     - cron: "0 6 * * *"
   workflow_dispatch:
 
-# ADICIONE ESTAS DUAS LINHAS:
 permissions:
   contents: write
 
@@ -19,20 +18,17 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          # Seu nome de usuário
           github_user_name: Michael315-mk
           
-          # Usei a paleta 'nord' para combinar com seu template
           outputs: |
-            dist/snake-nord.svg?palette=nord
-            dist/snake-nord-blue.svg?palette=nord&color_snake=5E81AC
-
-      # O resto do arquivo é o mesmo
+            dist/snake-dracula.svg?palette=dracula&color_snake=#BD93F9&color_dots=#50FA7B,#6272A4,#BD93F9
+            dist/snake-dracula-chromatic.svg?palette=dracula&color_snake=#FF79C6&color_dots=#50FA7B,#6272A4,#BD93F9
+      
       - name: Auto-commit Snake animation
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "chore: update github snake animation"
+          commit_message: "chore: update github snake animation for dracula theme"
           file_pattern: dist/*.svg
           commit_user_name: "github-actions[bot]"
           commit_user_email: "github-actions[bot]@users.noreply.github.com"
-          commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
+          commit_author: "github-actions[bot] <github-actions[bot]@users.github.com>"
