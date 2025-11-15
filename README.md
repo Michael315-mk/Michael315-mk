@@ -1,7 +1,7 @@
 <div align="center">
 
     <img src="https://github.com/Michael315-mk.png" width="200" height="200" alt="Foto de perfil" />
-  <h1>Michael315-mk</h1>
+  <h1>Michael Patrick</h1>
   
     <h2>👋 Sobre Mim</h2>
   <p>
@@ -35,9 +35,8 @@
     <h2>📚 Formação Acadêmica</h2>
   <p>
     🎓 <strong>Ciência da Computação</strong> | CEFET-RJ <br />
-    ⏳ 3º período (Fatorial) <br />
-    📚 Cursando disciplinas dos 4º, 5º e 6º períodos <br />
-    🕒 Faltam aproximadamente 2–3 anos para graduar-me.
+    ⏳ 3º período <br />
+    🕒 Faltam aproximadamente 2–3 anos para graduação.
   </p>
 
   <hr>
