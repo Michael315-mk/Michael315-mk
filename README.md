@@ -1,46 +1,147 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7DF9FF&size=30&width=1000&lines=Hello,+I'm+Michael+Patrick;I'm+a+Computer+Science+Student+from+Brazil+🇧🇷;Passionate+about+Software+Development;...always+learning+and+growing.)]()
-
-### 👋 About Me
-<p style="color: #E0E6F1;">
-I'm a Computer Science student focused on building a strong foundation in software development. My primary interest lies in <strong>C</strong> for systems programming, and I'm currently expanding my skills in <strong>Python</strong> for algorithm development and data structures.
-<br><br>
-I am actively <strong>seeking an internship or junior developer role</strong> to apply my skills and contribute to real-world projects.
+<p align="center">
+  <img src="https://github.com/Michael315-mk.png" width="200" height="200" alt="Foto de perfil" />
+  <h1 align="center">Michael315-mk</h1>
 </p>
 
-### 💻 My Toolkit
-<p style="color: #E0E6F1;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20" alt="C" style="vertical-align: middle;"/> &nbsp; <strong>C</strong>
-  <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" alt="Python" style="vertical-align: middle;"/> &nbsp; <strong>Python</strong>
-  <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="20" alt="Ubuntu" style="vertical-align: middle;"/> &nbsp; <strong>Ubuntu</strong>
-  <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" alt="Git" style="vertical-align: middle;"/> &nbsp; <strong>Git</strong>
-  <br>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d40f80b5c13c2c4434c38f11bfa39/topics/algorithms/algorithms.png" width="20" alt="Algorithms" style="vertical-align: middle;"/> &nbsp; <strong>Algorithms & Data Structures</strong>
-</p>
-
-### 📬 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/michael-borba-50815b128/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+<p align="center">
+  <a href="https://www.linkedin.com/in/michael315-mk/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:michaelpatrickborba@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+  <a href="https://github.com/Michael315-mk">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-<div align="center">
+<h3 align="center">Estudante de Ciência da Computação no CEFET-RJ</h3>
 
-<br>
-  
-### 📊 My GitHub Dashboard
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</p>
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=Michael315-mk&show_icons=true&count_private=true&hide_border=true&title_color=7DF9FF&icon_color=7DF9FF&text_color=E0E6F1&bg_color=0D1117" alt="Michael Patrick's GitHub Stats" />
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael315-mk&layout=compact&hide_border=true&title_color=7DF9FF&text_color=E0E6F1&bg_color=0D1117" alt="Michael Patrick's Top Languages"/>
+<br />
 
-<br>
+## 📚 Formação Acadêmica
 
-<img src="dist/snake-ice-onyx.svg" alt="Michael's GitHub Contribution Snake" />
+- 🎓 **Ciência da Computação** | CEFET-RJ  
+- ⏳ **3º período (Fatorial)**  
+- 📚 Estou cursando disciplinas dos **4º, 5º e 6º períodos**  
+- 🕒 Faltam aproximadamente **2–3 anos** para graduar-me.
 
-</div>
+---
+
+## 💻 Habilidades Técnicas
+
+- **Linguagens de Programação:**
+  - 🐱‍💻 **C** – Em uso para estudos de Sistemas Operacionais e estruturas de dados.
+  - 🐍 **Python** – Em aprendizado para desenvolvimento de projetos, IA e Ciência de Dados.
+
+- **Áreas de Interesse:**
+  - 🧠 **Inteligência Artificial**
+  - 📊 **Ciência de Dados**
+  - 💾 **Sistemas Operacionais**
+  - 🔧 **Desenvolvimento de Software**
+
+---
+
+## 🎮 Animação: Jogo da Cobra (Snake Game)
+
+Abaixo está um pequeno jogo da cobra feito em **HTML, CSS e JavaScript**. Você pode incluí-lo diretamente no seu README.md usando o formato `<details>`.
+
+> ⚠️ Lembre-se: GitHub renderiza HTML e JavaScript em README.md, então isso funcionará diretamente!
+
+```html
+<details>
+<summary>Jogue o Snake Game aqui! 🐍</summary>
+
+```html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Snake Game</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background-color: #111;
+      margin: 0;
+    }
+    #game {
+      border: 3px solid white;
+      background-color: black;
+      width: 400px;
+      height: 400px;
+      display: grid;
+      grid-template-rows: repeat(20, 1fr);
+      grid-template-columns: repeat(20, 1fr);
+    }
+    .snake {
+      background-color: lime;
+    }
+    .food {
+      background-color: red;
+    }
+  </style>
+</head>
+<body>
+  <canvas id="game" width="400" height="400"></canvas>
+  <script>
+    const canvas = document.getElementById("game");
+    const ctx = canvas.getContext("2d");
+
+    const gridSize = 20;
+    let snake = [{x: 10, y: 10}];
+    let food = {x: Math.floor(Math.random() * gridSize), y: Math.floor(Math.random() * gridSize)};
+    let dx = 1, dy = 0;
+
+    document.addEventListener("keydown", changeDirection);
+
+    function changeDirection(e) {
+      const LEFT_KEY = 37, RIGHT_KEY = 39, UP_KEY = 38, DOWN_KEY = 40;
+      const keyPressed = e.keyCode;
+      const canGoLeft = dx === 0;
+      const canGoRight = dx === 0;
+      const canGoUp = dy === 0;
+      const canGoDown = dy === 0;
+
+      if (keyPressed === LEFT_KEY && canGoLeft) { dx = -1; dy = 0; }
+      if (keyPressed === RIGHT_KEY && canGoRight) { dx = 1; dy = 0; }
+      if (keyPressed === UP_KEY && canGoUp) { dx = 0; dy = -1; }
+      if (keyPressed === DOWN_KEY && canGoDown) { dx = 0; dy = 1; }
+    }
+
+    function draw() {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+      snake.forEach((segment, index) => {
+        ctx.fillStyle = index === 0 ? "lime" : "#0f0";
+        ctx.fillRect(segment.x * 20, segment.y * 20, 19, 19);
+      });
+
+      ctx.fillStyle = "red";
+      ctx.fillRect(food.x * 20, food.y * 20, 19, 19);
+
+      setTimeout(move, 100);
+    }
+
+    function move() {
+      const head = {x: snake[0].x + dx, y: snake[0].y + dy};
+      snake.unshift(head);
+
+      if (head.x === food.x && head.y === food.y) {
+        food = {x: Math.floor(Math.random() * gridSize), y: Math.floor(Math.random() * gridSize)};
+      } else {
+        snake.pop();
+      }
+
+      draw();
+    }
+
+    draw();
+  </script>
+</html>
