@@ -40,7 +40,7 @@ I'm a Computer Science student from Brazil 🇧🇷
 <br />
 <br />
 
-<p align="right">
+<p align="center">
   <a href="https://www.linkedin.com/in/michael315-mk/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
