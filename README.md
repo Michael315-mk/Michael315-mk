@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Michael;" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hello,%2C+I'm+Michael;" alt="Typing Animation" />
 </p>
 
 <br />
@@ -26,10 +26,16 @@ I'm a Computer Science student from Brazil 🇧🇷
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Michael315-mk&show_icons=true&theme=dracula&hide_border=true" alt="Michael's GitHub Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael315-mk&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+## 💻 Problem Solving (LeetCode)
+<p align="center">
+  <a href="https://leetcode.com/MichaelP315">
+    <img src="https://leetcard.jacoblin.cool/MichaelP315?theme=dark&font=Space%20Grotesk&ext=heatmap" alt="LeetCode Stats"/>
+  </a>
+</p>
+
 ## 📚 Academic Background
 - 🎓 **B.S. in Computer Science** | CEFET-RJ  
-- ⏳ 4rd Semester (Factorial)
-
+- ⏳ 4rd Semester 
 
 <br />
 <br />
