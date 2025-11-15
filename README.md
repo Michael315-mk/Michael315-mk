@@ -2,16 +2,7 @@
 
     <img src="https://github.com/Michael315-mk.png" width="200" height="200" alt="Foto de perfil" />
   <h1>Michael315-mk</h1>
-
-    <p>
-    <a href="https://www.linkedin.com/in/michael315-mk/">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://github.com/Michael315-mk">
-      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-  </p>
-
+  
   <hr>
 
     <h2>👋 Sobre Mim</h2>
