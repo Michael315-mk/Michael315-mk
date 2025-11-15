@@ -58,3 +58,9 @@
     <a href="https://www.linkedin.com/in/michael315-mk/">
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
+        <a href="mailto:seu.email@exemplo.com">
+      <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+
+</div>
