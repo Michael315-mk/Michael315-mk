@@ -3,8 +3,6 @@
     <img src="https://github.com/Michael315-mk.png" width="200" height="200" alt="Foto de perfil" />
   <h1>Michael315-mk</h1>
   
-  <hr>
-
     <h2>👋 Sobre Mim</h2>
   <p>
     Estudante de <strong>Ciência da Computação no CEFET-RJ</strong>, apaixonado por resolver problemas complexos. <br />
