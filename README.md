@@ -1,28 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BD93F9&size=30&width=1000&lines=Hello,+I'm+Michael+Patrick;I'm+a+Computer+Science+Student+from+Brazil+🇧🇷;Passionate+about+Software+Development;...always+learning+and+growing.)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7DF9FF&size=30&width=1000&lines=Hello,+I'm+Michael+Patrick;I'm+a+Computer+Science+Student+from+Brazil+🇧🇷;Passionate+about+Software+Development;...always+learning+and+growing.)]()
 
 ### 👋 About Me
-<p style="color: #F8F8F2;">
-I'm a Computer Science student focused on building a strong foundation in software development. My primary interest lies in <strong>C</strong> for systems programming, and I'm currently expanding my skills in <strong>Python</strong> for Data Science.
+<p style="color: #E0E6F1;">
+I'm a Computer Science student focused on building a strong foundation in software development. My primary interest lies in <strong>C</strong> for systems programming, and I'm currently expanding my skills in <strong>Python</strong> for algorithm development and data structures.
 <br><br>
 I am actively <strong>seeking an internship or junior developer role</strong> to apply my skills and contribute to real-world projects.
 </p>
 
-  
-### 📊 My GitHub Dashboard
-
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=Michael315-mk&show_icons=true&count_private=true&theme=dracula" alt="Michael Patrick's GitHub Stats" />
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael315-mk&layout=compact&theme=dracula" alt="Michael Patrick's Top Languages"/>
-
-<br>
-
-<img src="dist/snake-dracula-chromatic.svg" alt="Michael's GitHub Contribution Snake" />
-
-
-</div>
-
-
 ### 💻 My Toolkit
-<p style="color: #F8F8F2;">
+<p style="color: #E0E6F1;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20" alt="C" style="vertical-align: middle;"/> &nbsp; <strong>C</strong>
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" alt="Python" style="vertical-align: middle;"/> &nbsp; <strong>Python</strong>
@@ -34,10 +20,6 @@ I am actively <strong>seeking an internship or junior developer role</strong> to
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d40f80b5c13c2c4434c38f11bfa39/topics/algorithms/algorithms.png" width="20" alt="Algorithms" style="vertical-align: middle;"/> &nbsp; <strong>Algorithms & Data Structures</strong>
 </p>
 
-<div align="center">
-
-<br>
-
 ### 📬 Connect With Me
 <p>
   <a href="https://www.linkedin.com/in/michael-borba-50815b128/" target="_blank">
@@ -48,3 +30,17 @@ I am actively <strong>seeking an internship or junior developer role</strong> to
   </a>
 </p>
 
+<div align="center">
+
+<br>
+  
+### 📊 My GitHub Dashboard
+
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=Michael315-mk&show_icons=true&count_private=true&hide_border=true&title_color=7DF9FF&icon_color=7DF9FF&text_color=E0E6F1&bg_color=0D1117" alt="Michael Patrick's GitHub Stats" />
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael315-mk&layout=compact&hide_border=true&title_color=7DF9FF&text_color=E0E6F1&bg_color=0D1117" alt="Michael Patrick's Top Languages"/>
+
+<br>
+
+<img src="dist/snake-ice-onyx.svg" alt="Michael's GitHub Contribution Snake" />
+
+</div>
