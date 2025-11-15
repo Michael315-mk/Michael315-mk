@@ -1,12 +1,13 @@
 name: Generate GitHub Snake
 
 on:
-  # Isso roda o script todo dia às 6:00 UTC (3:00 da manhã no seu fuso)
   schedule:
     - cron: "0 6 * * *"
-  
-  # Isso permite que você rode manualmente pela aba "Actions"
   workflow_dispatch:
+
+# ADICIONE ESTAS DUAS LINHAS:
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -18,16 +19,15 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          # O seu nome de usuário do GitHub
+          # Seu nome de usuário
           github_user_name: Michael315-mk
           
-          # Lista de arquivos .svg que serão gerados
-          # Usei a paleta 'github-dark' para combinar com seu perfil preto
+          # Usei a paleta 'nord' para combinar com seu template
           outputs: |
-            dist/snake-dark.svg?palette=github-dark
-            dist/snake-dark-chromatic.svg?palette=github-dark&color_snake=purple&color_dots=#40c463,#30a14e,#216e39
+            dist/snake-nord.svg?palette=nord
+            dist/snake-nord-blue.svg?palette=nord&color_snake=5E81AC
 
-      # Esta parte pega os arquivos gerados (dist/) e os envia para o seu repositório
+      # O resto do arquivo é o mesmo
       - name: Auto-commit Snake animation
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
