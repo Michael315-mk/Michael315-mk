@@ -1,12 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B0C4DE&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B0C4DE&size=30&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Michael+Patrick;I+am+a+Computer+Science+Student+from+Brazil;Passionate+about+Software+Development;Focused+on+C+and+Python;Actively+seeking+new+opportunities!)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E0E0E0&size=30&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Michael+Patrick;I+am+a+Computer+Science+Student+from+Brazil;Passionate+about+Software+Development;Focused+on+C+and+Python;Actively+seeking+new+opportunities!&font=Overpass)]()
 
 <div align="center">
   
 ### 👋 About Me
   
-<p align="left" style="max-width: 80%;">
+<p align="left" style="max-width: 80%; color: #E0E0E0;">
 I'm a Computer Science student from Brazil 🇧🇷, focused on building a strong foundation in software development. I have a special interest in systems programming (using <strong>C</strong>) and am also expanding my knowledge in <strong>Python</strong> for developing complex solutions involving algorithms and data structures.
 <br><br>
 I am actively <strong>seeking an internship or junior developer role</strong> where I can apply what I've learned and contribute to real-world projects.
@@ -44,10 +44,10 @@ I am actively <strong>seeking an internship or junior developer role</strong> wh
 
 ### 📊 My GitHub Stats
 <div align="center">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Owlbertoh&show_icons=true&count_private=true&hide_border=true&title_color=B0C4DE&icon_color=B0C4DE&text_color=c9d1d9&bg_color=0d1117" alt="Michael Patrick's GitHub Stats" />
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Owlbertoh&layout=compact&hide_border=true&title_color=B0C4DE&text_color=ff91a4&bg_color=0d1117" alt="Michael Patrick's Top Languages"/>
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Michael315-mk&show_icons=true&count_private=true&hide_border=true&title_color=A0A0A0&icon_color=A0A0A0&text_color=E0E0E0&bg_color=000000" alt="Michael Patrick's GitHub Stats" />
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael315-mk&layout=compact&hide_border=true&title_color=A0A0A0&text_color=E0E0E0&bg_color=000000" alt="Michael Patrick's Top Languages"/>
 </div>
 
-![Owlbertoh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Owlbertoh&bg_color=0d1117&color=8c8c8c&line=b0b0b0&point=ffffff&area=true&hide_border=true)
+![Michael315-mk's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Michael315-mk&bg_color=000000&color=B0B0B0&line=E0E0E0&point=FFFFFF&area=true&hide_border=true)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B0C4DE&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
