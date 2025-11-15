@@ -23,12 +23,13 @@ I'm a Computer Science student from Brazil 🇧🇷
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Michael315-mk&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Michael's GitHub Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael315-mk&layout=compact&theme=dracula&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Michael315-mk&show_icons=true&theme=dracula&hide_border=true" alt="Michael's GitHub Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael315-mk&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ## 📚 Academic Background
 - 🎓 **B.S. in Computer Science** | CEFET-RJ  
-- ⏳ 4rd Semester 
+- ⏳ 4rd Semester (Factorial)
+
 
 <br />
 <br />
