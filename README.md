@@ -11,15 +11,12 @@
     <strong>Estou ativamente buscando oportunidades de estágio</strong> onde posso aplicar minhas habilidades e aprender com o mercado.
   </p>
 
-  <hr>
-
     <h2>📊 Minhas Estatísticas</h2>
   <p>
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Michael315-mk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael315-mk&layout=compact&langs_count=7&theme=dracula"/>
   </p>
 
-  <hr>
 
     <h2>🛠️ Ferramentas e Tecnologias</h2>
   <p>
@@ -30,16 +27,12 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   </p>
 
-  <hr>
-
     <h2>📚 Formação Acadêmica</h2>
   <p>
     🎓 <strong>Ciência da Computação</strong> | CEFET-RJ <br />
     ⏳ 3º período <br />
     🕒 Faltam aproximadamente 2–3 anos para graduação.
   </p>
-
-  <hr>
 
     <h2>📬 Entre em Contato</h2>
   <p>
