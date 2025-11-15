@@ -7,7 +7,7 @@
 ### 👋 About Me
   
 <p align="left" style="max-width: 80%; color: #E0E0E0;">
-I'm a Computer Science student from Brazil 🇧🇷, focused on building a strong foundation in software development. I have a special interest in systems programming (using <strong>C</strong>) and am also expanding my knowledge in <strong>Python</strong> for developing complex solutions involving algorithms and data structures.
+I'm a Computer Science student from Brazil 🇧🇷, focused on building a strong foundation in software development. I have a special interest in systems programming (using <strong>C</strong>) and I am also expanding my knowledge in <strong>Python</strong> for developing complex solutions involving Data Science.
 <br><br>
 I am actively <strong>seeking an internship or junior developer role</strong> where I can apply what I've learned and contribute to real-world projects.
 </p>
