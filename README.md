@@ -43,6 +43,4 @@ I am actively <strong>seeking an internship or junior developer role</strong> to
 
 <img src="dist/snake-dark.svg" alt="Michael's GitHub Contribution Snake" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Michael315-mk&theme=github-dark&hide_border=true&area=true" alt="Michael's GitHub Activity Graph" />
-
 </div>
