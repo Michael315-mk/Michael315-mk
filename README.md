@@ -48,6 +48,9 @@ I am actively <strong>seeking an internship or junior developer role</strong> to
   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael315-mk&layout=compact&theme=github_dark" alt="Michael Patrick's Top Languages"/>
 </div>
 
+<div align="center">
+  <img src="dist/snake-dark.svg" alt="Michael's GitHub Contribution Snake" />
+</div>
 ![Michael315-mk's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Michael315-mk&theme=github-dark&hide_border=true&area=true)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=39D353&height=120&section=footer"/>
