@@ -9,23 +9,27 @@ I'm a Computer Science student from Brazil 🇧🇷
 **About Me**
 
 - 🎓 Studying **Computer Science** at [CEFET-RJ](http://www.cefet-rj.br/) (Federal Center for Technological Education)
-- 💡 Focusing on **Artificial Intelligence**, **Data Science**, and **Software Development**
+- 💡 Focusing on  **Data Science** and **Software Development**
 - ❤️ I love solving problems with **Python** (AI/Data) and **C** (Low-Level Systems)
 - 🚀 **Actively seeking internship opportunities** and new challenges.
+- 🧠 Knowledge of **Microsoft Office (Complete)**, **SQL**, **Power BI**, and **Programming Logic**
 - 🇺🇸 **Fluent English**
 
 <br>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Programming%20Logic-6A5ACD?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
 
-| <a href="https://github.com/Michael315-mk"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Michael315-mk&show_icons=true&theme=tokyonight&hide_border=true" alt="Michael315-mk GitHub Stats" /></a> | <a href="https://github.com/Michael315-mk"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael315-mk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></a> |
-| ------------- | ------------- |
 
 
 ## 💻 Problem Solving (LeetCode)
