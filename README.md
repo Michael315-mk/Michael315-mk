@@ -9,7 +9,6 @@ I'm a Computer Science student from Brazil 🇧🇷
 **About Me**
 
 - 🎓 Studying **Computer Science** at [CEFET-RJ](http://www.cefet-rj.br/) (Federal Center for Technological Education)
-- 💡 Focusing on  **Data Science** and **Software Development**
 - ❤️ I love solving problems with **Python** (AI/Data) and **C** (Low-Level Systems)
 - 🚀 **Actively seeking internship opportunities** and new challenges.
 - 🧠 Knowledge of **Microsoft Office (Complete)**, **SQL**, **Power BI**, and **Programming Logic**
