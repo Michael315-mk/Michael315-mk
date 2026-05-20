@@ -31,13 +31,6 @@ I'm a Computer Science student from Brazil 🇧🇷
 
 
 
-## 💻 Problem Solving (LeetCode)
-<p align="center">
-  <a href="https://leetcode.com/MichaelP315">
-    <img src="https://leetcard.jacoblin.cool/MichaelP315?theme=dark&font=Space%20Grotesk&ext=heatmap" alt="LeetCode Stats"/>
-  </a>
-</p>
-
 ## 📚 Academic Background
 - 🎓 **B.S. in Computer Science** | CEFET-RJ  
 - ⏳ 4rd Semester 
