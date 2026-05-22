@@ -11,7 +11,7 @@ I'm a Computer Science student from Brazil 🇧🇷
 - 🎓 Studying **Computer Science** at [CEFET-RJ](http://www.cefet-rj.br/) (Federal Center for Technological Education)
 - ❤️ I love solving problems with **Python** (AI/Data) and **C** (Low-Level Systems)
 - 🚀 **Actively seeking internship opportunities** and new challenges.
-- 🧠 Knowledge of **Microsoft Office (Complete)**, **SQL**, **Power BI**, and **Programming Logic**
+- 🧠 Knowledge of **Microsoft Office (Complete)**, **SQL**, and **Programming Logic**
 - 🇺🇸 **Fluent English**
 
 <br>
@@ -24,7 +24,6 @@ I'm a Computer Science student from Brazil 🇧🇷
 
   <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
   <img src="https://img.shields.io/badge/Programming%20Logic-6A5ACD?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
 
